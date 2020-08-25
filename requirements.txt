@@ -9,7 +9,6 @@ chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
 configparser==5.0.0
-enum34==1.1.10
 httprunner==3.1.1
 idna==2.10
 importlib-metadata==1.6.0
